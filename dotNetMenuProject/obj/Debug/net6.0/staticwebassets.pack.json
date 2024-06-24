@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/obj/Debug/net6.0/scopedcss/projectbundle/dotNetMenuProject.bundle.scp.css",
+      "PackagePath": "staticwebassets/dotNetMenuProject.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/LICENSE.txt",
+      "PackagePath": "staticwebassets/food-website-template/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/READ-ME.txt",
+      "PackagePath": "staticwebassets/food-website-template/READ-ME.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/about.html",
+      "PackagePath": "staticwebassets/food-website-template/about.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/blog.html",
+      "PackagePath": "staticwebassets/food-website-template/blog.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/booking.html",
+      "PackagePath": "staticwebassets/food-website-template/booking.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/contact.html",
+      "PackagePath": "staticwebassets/food-website-template/contact.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/css/style.css",
+      "PackagePath": "staticwebassets/food-website-template/css/style.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/feature.html",
+      "PackagePath": "staticwebassets/food-website-template/feature.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/food-website-template.jpg",
+      "PackagePath": "staticwebassets/food-website-template/food-website-template.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/about.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/about.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/blog-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/carousel-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/feature-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/feature-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/feature-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/feature-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-beverage-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-beverage-img.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-beverage.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-beverage.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-burger-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-burger-img.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-burger.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-burger.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-snack-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-snack-img.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/menu-snack.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-snack.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/page-header.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/page-header.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/post-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/post-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/post-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/post-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/post-5.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-5.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/single.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/single.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/team-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/team-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/team-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/team-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/img/user.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/user.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/index.html",
+      "PackagePath": "staticwebassets/food-website-template/index.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/js/main.js",
+      "PackagePath": "staticwebassets/food-website-template/js/main.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/backup.txt",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/backup.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/Flaticon.eot",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/Flaticon.svg",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/Flaticon.ttf",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/Flaticon.woff",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/Flaticon.woff2",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/_flaticon.scss",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/_flaticon.scss"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/flaticon.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/flaticon.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/font/flaticon.html",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/flaticon.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/flaticon/license/license.pdf",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/license/license.pdf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/js/moment-timezone.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/moment-timezone.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/js/moment.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/mail/contact.js",
+      "PackagePath": "staticwebassets/food-website-template/mail/contact.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/mail/contact.php",
+      "PackagePath": "staticwebassets/food-website-template/mail/contact.php"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/mail/jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets/food-website-template/mail/jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/menu.html",
+      "PackagePath": "staticwebassets/food-website-template/menu.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/single.html",
+      "PackagePath": "staticwebassets/food-website-template/single.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/food-website-template/team.html",
+      "PackagePath": "staticwebassets/food-website-template/team.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.dotNetMenuProject.props",
+      "PackagePath": "build\\dotNetMenuProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotNetMenuProject.props",
+      "PackagePath": "buildMultiTargeting\\dotNetMenuProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotNetMenuProject.props",
+      "PackagePath": "buildTransitive\\dotNetMenuProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.dotNetMenuProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

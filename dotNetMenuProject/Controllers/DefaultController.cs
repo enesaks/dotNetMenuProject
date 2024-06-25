@@ -15,6 +15,48 @@ namespace dotNetMenuProject.Controllers
         {
             return View();
         }
+
+        public PartialViewResult PartialHead()
+        {
+            return PartialView();
+        }
+        public PartialViewResult PartialNavbar()
+        {
+            return PartialView();
+        }
+        public PartialViewResult PartialCarousel()
+        {
+            return PartialView();
+        }
+        public PartialViewResult PartialFeature()
+        {
+            return PartialView();
+        }
+        public PartialViewResult PartialTeam()
+        {
+            return PartialView();
+        }
+        public PartialViewResult PartialTestimonial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult PartialContact()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult PartialFooter()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult PartialScript()
+        {
+            return PartialView();
+        }
+
+
     }
 }
 

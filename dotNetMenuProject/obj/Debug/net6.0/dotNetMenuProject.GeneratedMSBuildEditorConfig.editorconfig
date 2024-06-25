@@ -20,6 +20,38 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialCarousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsU2NyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

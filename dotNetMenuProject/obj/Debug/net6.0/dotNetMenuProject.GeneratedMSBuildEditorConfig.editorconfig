@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialCarousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ2Fyb3VzZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsRmVhdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialFooter.cshtml]

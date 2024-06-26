@@ -28,6 +28,10 @@ namespace dotNetMenuProject.Controllers
         {
             return PartialView();
         }
+        public PartialViewResult PartialAbout()
+        {
+            return PartialView();
+        }
         public PartialViewResult PartialFeature()
         {
             return PartialView();

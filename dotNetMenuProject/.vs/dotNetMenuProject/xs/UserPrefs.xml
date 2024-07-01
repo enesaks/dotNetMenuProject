@@ -1,38 +1,42 @@
 ﻿<Properties StartupConfiguration="{AAA2877C-E38C-4DB5-833A-781575E446DF}|Default">
   <MonoDevelop.Ide.ItemProperties.dotNetMenuProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Default/PartialFeature.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Components/_MenuListComponentPartial/Default.cshtml">
     <Files>
-      <File FileName="Controllers/DefaultController.cs" Line="33" Column="34" />
-      <File FileName="Views/Default/Index.cshtml" Line="8" Column="19" />
-      <File FileName="Views/Default/PartialFeature.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/DefaultController.cs" />
+      <File FileName="Views/Default/Index.cshtml" Line="159" Column="1" />
+      <File FileName="Entities/Product.cs" Line="2" Column="33" />
+      <File FileName="Context/MenuContext.cs" Line="10" Column="58" />
+      <File FileName="ViewComponents/_MenuListComponentPartial.cs" Line="5" Column="40" />
+      <File FileName="Views/Shared/Components/_MenuListComponentPartial/Default.cshtml" Line="11" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetMenuProject">
             <Node name="dotNetMenuProject">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Default" expanded="True">
-                  <Node name="PartialFeature.cshtml" selected="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="_MenuListComponentPartial">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
+                  </Node>
                 </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="food-website-template" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

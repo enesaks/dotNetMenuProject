@@ -1,33 +1,27 @@
 ﻿<Properties StartupConfiguration="{AAA2877C-E38C-4DB5-833A-781575E446DF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.dotNetMenuProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Components/_MenuListComponentPartial/Default.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/WeatherViewModel.cs">
     <Files>
       <File FileName="Controllers/DefaultController.cs" />
-      <File FileName="Views/Default/Index.cshtml" Line="159" Column="1" />
-      <File FileName="Entities/Product.cs" Line="2" Column="33" />
-      <File FileName="Context/MenuContext.cs" Line="10" Column="58" />
-      <File FileName="ViewComponents/_MenuListComponentPartial.cs" Line="5" Column="40" />
-      <File FileName="Views/Shared/Components/_MenuListComponentPartial/Default.cshtml" Line="11" Column="46" />
+      <File FileName="Views/Default/Index.cshtml" />
+      <File FileName="Views/Default/CreateBooking.cshtml" />
+      <File FileName="Entities/Booking.cs" />
+      <File FileName="Controllers/WeatherController.cs" Line="14" Column="13" />
+      <File FileName="Models/WeatherViewModel.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetMenuProject">
             <Node name="dotNetMenuProject">
-              <Node name="Context" expanded="True" />
-              <Node name="Entities" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="ViewComponents" expanded="True" />
-              <Node name="Views">
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="_MenuListComponentPartial">
-                      <Node name="Default.cshtml" selected="True" />
-                    </Node>
-                  </Node>
-                </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="WeatherViewModel.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -35,8 +29,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>

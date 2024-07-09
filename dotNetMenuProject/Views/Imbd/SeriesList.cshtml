@@ -1,0 +1,28 @@
+﻿@model List<ImbdSeriesViewModel>
+@{
+    Layout = null;
+}
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<div class="alert alert-success container"> En Iyi 100 Dizi Listesi | Enes Aksu </div>
+<div class="container">
+    <br />
+    <table class="table table-bordred">
+        <tr>
+            <th>#</th>
+            <th>Dizi Adı</th>
+            <th>Puanı</th>
+            <th>Detaylar</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Rank</td>
+                <td>@item.Title</td>
+                <td>@item.Rating</td>
+                <td><a href="@item.ImdbLink" class="btn btn-primary">Sitede Gör</a></td>
+            </tr>
+        }
+    </table>
+</div>

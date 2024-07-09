@@ -1,0 +1,12 @@
+﻿@model dotNetMenuProject.Models.WeatherViewModel.Data
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<div class="container">
+    <br />
+    <div class="alert alert-success">@Model.City için Hava Durumu: @Model.temp</div>
+    <div class="alert alert-info">Beklenen Sıcaklık: @Model.expected_temp</div>
+</div>

@@ -1,10 +1,17 @@
-﻿@model WeatherViewModel.Data
+﻿@model dotNetMenuProject.Models.WeatherViewModel.Data
 @{
     Layout = null;
 }
+
 <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
 <div class="container">
     <br />
-    <div class="alert alert-success">Ankara Hava Dururmu: @Model.temp</div>
+    <form asp-action="GetWeather" method="post">
+        <div class="form-group">
+            <label asp-for="City">Şehir Adı:</label>
+            <input type="text" class="form-control" id="City" name="City" placeholder="Şehir adını girin">
+        </div>
+        <button type="submit" class="btn btn-primary">Hava Durumunu Getir</button>
+    </form>
 </div>
-

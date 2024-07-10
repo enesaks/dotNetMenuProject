@@ -22,6 +22,7 @@
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Npgsql.dll
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
@@ -68,4 +69,3 @@
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/obj/Debug/net6.0/dotNetMenuProject.pdb
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/obj/Debug/net6.0/dotNetMenuProject.genruntimeconfig.cache
 /Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/obj/Debug/net6.0/ref/dotNetMenuProject.dll
-/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/bin/Debug/net6.0/Newtonsoft.Json.dll

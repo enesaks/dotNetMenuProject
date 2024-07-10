@@ -345,6 +345,1710 @@
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/LICENSE",
+      "PackagePath": "staticwebassets/kaiadmin"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/README.md",
+      "PackagePath": "staticwebassets/kaiadmin/README.md"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/demo.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/demo.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/demo.css.map",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/demo.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/fonts.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/fonts.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/fonts.min.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/fonts.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/kaiadmin.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/kaiadmin.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/kaiadmin.css.map",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/kaiadmin.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/kaiadmin.min.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/kaiadmin.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/plugins.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/plugins.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/plugins.css.map",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/plugins.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/css/plugins.min.css",
+      "PackagePath": "staticwebassets/kaiadmin/assets/css/plugins.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/fontawesome/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/fontawesome/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/summernote/summernote.eot",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/summernote/summernote.eot"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/summernote/summernote.ttf",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/summernote/summernote.ttf"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/summernote/summernote.woff",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/summernote/summernote.woff"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/fonts/summernote/summernote.woff2",
+      "PackagePath": "staticwebassets/kaiadmin/assets/fonts/summernote/summernote.woff2"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/arashmil.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/arashmil.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/bg-404.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/bg-404.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/blogpost.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/blogpost.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/chadengle.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/chadengle.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example1-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example1-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example1.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example1.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example10-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example10-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example10.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example10.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example11-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example11-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example11.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example11.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example12-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example12-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example12.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example12.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example2-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example2-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example2.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example2.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example3-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example3-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example3.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example3.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example4-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example4-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example4.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example4.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example5-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example5-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example5.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example5.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example6-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example6-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example6.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example6.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example7-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example7-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example7.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example7.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example8-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example8-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example8.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example8.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example9-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example9-300x300.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/example9.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/example9.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/logo.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/logo.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/logo1.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/logo1.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/logo2.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/logo2.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/logoinvoice.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/logoinvoice.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product1.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product10.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product10.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product11.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product11.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product12.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product12.jpeg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product2.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product3.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product4.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product5.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product5.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product6.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product6.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product7.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product7.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/examples/product8.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/examples/product8.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ad.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ad.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ae.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ae.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/af.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/af.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ag.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ag.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ai.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ai.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/al.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/al.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/am.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/am.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/an.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/an.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ao.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ao.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ar.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ar.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/as.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/as.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/at.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/at.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/au.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/au.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/aw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/aw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ax.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ax.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/az.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/az.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ba.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ba.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bb.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bb.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bd.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bd.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/be.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/be.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bi.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bi.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bj.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bj.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bo.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bo.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/br.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/br.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bs.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bs.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/by.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/by.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/bz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/bz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ca.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ca.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/catalonia.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/catalonia.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cd.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cd.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ch.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ch.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ci.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ci.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ck.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ck.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/co.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/co.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cs.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cs.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cx.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cx.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cy.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cy.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/cz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/cz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/de.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/de.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/dj.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/dj.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/dk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/dk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/dm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/dm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/do.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/do.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/dz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/dz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ec.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ec.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ee.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ee.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/eg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/eg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/eh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/eh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/england.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/england.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/er.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/er.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/es.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/es.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/et.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/et.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/europeanunion.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/europeanunion.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fam.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fam.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fi.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fi.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fj.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fj.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fo.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fo.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/fr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/fr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ga.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ga.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gb.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gb.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gd.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gd.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ge.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ge.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gi.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gi.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gp.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gp.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gq.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gq.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gs.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gs.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/gy.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/gy.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/hk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/hk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/hm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/hm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/hn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/hn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/hr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/hr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ht.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ht.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/hu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/hu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/id.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/id.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ie.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ie.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/il.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/il.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/in.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/in.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/io.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/io.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/iq.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/iq.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ir.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ir.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/is.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/is.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/it.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/it.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/jm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/jm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/jo.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/jo.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/jp.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/jp.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ke.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ke.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ki.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ki.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/km.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/km.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kp.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kp.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ky.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ky.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/kz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/kz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/la.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/la.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lb.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lb.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/li.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/li.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ls.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ls.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/lv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/lv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ly.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ly.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ma.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ma.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/md.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/md.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/me.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/me.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ml.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ml.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mo.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mo.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mp.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mp.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mq.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mq.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ms.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ms.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mx.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mx.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/my.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/my.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/mz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/mz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/na.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/na.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ne.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ne.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ng.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ng.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ni.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ni.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/no.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/no.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/np.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/np.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/nz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/nz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/om.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/om.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pa.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pa.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pe.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pe.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ph.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ph.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ps.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ps.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/pw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/pw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/py.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/py.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/qa.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/qa.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/re.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/re.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/readme.txt",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/readme.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ro.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ro.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/rs.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/rs.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ru.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ru.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/rw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/rw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sa.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sa.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sb.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sb.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/scotland.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/scotland.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sd.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sd.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/se.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/se.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sh.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sh.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/si.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/si.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sj.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sj.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/so.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/so.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/st.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/st.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sy.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sy.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/sz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/sz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/td.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/td.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/th.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/th.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tj.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tj.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tk.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tk.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tl.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tl.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/to.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/to.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tr.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tr.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tv.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tv.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/tz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/tz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ua.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ua.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ug.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ug.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/um.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/um.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/us.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/us.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/uy.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/uy.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/uz.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/uz.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/va.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/va.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/vc.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/vc.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ve.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ve.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/vg.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/vg.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/vi.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/vi.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/vn.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/vn.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/vu.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/vu.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/wales.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/wales.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/wf.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/wf.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ws.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ws.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/ye.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/ye.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/yt.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/yt.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/za.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/za.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/zm.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/zm.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/flags/zw.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/flags/zw.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/img-shadow.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/img-shadow.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/jm_denis.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/jm_denis.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo1.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo1.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo2.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo2.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo3.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo3.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo4.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo4.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo5.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo5.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo6.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo6.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo7.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo7.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo8.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo8.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/demo9.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/demo9.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/favicon.ico",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/favicon.ico"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/favicon.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/favicon.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/favicon.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/favicon.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/icon.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/icon.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/icon.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/icon.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/logo_dark.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/logo_dark.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/logo_dark.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/logo_dark.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/logo_documentation.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/logo_documentation.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/logo_light.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/logo_light.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/kaiadmin/logo_light.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/kaiadmin/logo_light.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/logoproduct.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/logoproduct.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/logoproduct2.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/logoproduct2.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/logoproduct3.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/logoproduct3.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/mlane.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/mlane.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/profile.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/profile.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/profile2.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/profile2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/sauro.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/sauro.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/talha.jpg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/talha.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/undraw/undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/undraw/undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/img/visa.svg",
+      "PackagePath": "staticwebassets/kaiadmin/assets/img/visa.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/core/jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/core/jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/demo.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/demo.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/kaiadmin.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/kaiadmin.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/kaiadmin.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/kaiadmin.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/chart-circle/circles.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/chart-circle/circles.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/chart.js/chart.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/chart.js/chart.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/datatables/datatables.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/datatables/datatables.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/datepicker/bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/datepicker/bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/dropzone/dropzone.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/dropzone/dropzone.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/fullcalendar/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/fullcalendar/fullcalendar.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/gmaps/gmaps.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/gmaps/gmaps.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jquery.validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jquery.validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jsvectormap/jsvectormap.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jsvectormap/jsvectormap.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/jsvectormap/world.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/jsvectormap/world.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/list.js/list.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/list.js/list.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/moment/moment.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/moment/moment.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/owl-carousel/ajax-loader.gif",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/owl-carousel/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/owl-carousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/owl-carousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/owl-carousel/owl.video.play.png",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/owl-carousel/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/select2/select2.full.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/select2/select2.full.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/sortable/sortable.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/sortable/sortable.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/sticky-sidebar/sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/sticky-sidebar/sticky-sidebar.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/summernote/summernote-lite.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/summernote/summernote-lite.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/sweetalert/sweetalert.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/sweetalert/sweetalert.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/plugin/webfont/webfont.min.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/plugin/webfont/webfont.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/setting-demo.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/setting-demo.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/assets/js/setting-demo2.js",
+      "PackagePath": "staticwebassets/kaiadmin/assets/js/setting-demo2.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/charts/charts.html",
+      "PackagePath": "staticwebassets/kaiadmin/charts/charts.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/charts/sparkline.html",
+      "PackagePath": "staticwebassets/kaiadmin/charts/sparkline.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/avatars.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/avatars.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/buttons.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/buttons.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/font-awesome-icons.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/font-awesome-icons.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/gridsystem.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/gridsystem.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/notifications.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/notifications.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/panels.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/panels.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/simple-line-icons.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/simple-line-icons.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/sweetalert.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/sweetalert.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/components/typography.html",
+      "PackagePath": "staticwebassets/kaiadmin/components/typography.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/forms/forms.html",
+      "PackagePath": "staticwebassets/kaiadmin/forms/forms.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/icon-menu.html",
+      "PackagePath": "staticwebassets/kaiadmin/icon-menu.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/index.html",
+      "PackagePath": "staticwebassets/kaiadmin/index.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/maps/googlemaps.html",
+      "PackagePath": "staticwebassets/kaiadmin/maps/googlemaps.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/maps/jsvectormap.html",
+      "PackagePath": "staticwebassets/kaiadmin/maps/jsvectormap.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/sidebar-style-2.html",
+      "PackagePath": "staticwebassets/kaiadmin/sidebar-style-2.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/starter-template.html",
+      "PackagePath": "staticwebassets/kaiadmin/starter-template.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/tables/datatables.html",
+      "PackagePath": "staticwebassets/kaiadmin/tables/datatables.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/tables/tables.html",
+      "PackagePath": "staticwebassets/kaiadmin/tables/tables.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/kaiadmin/widgets.html",
+      "PackagePath": "staticwebassets/kaiadmin/widgets.html"
+    },
+    {
       "Id": "/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },

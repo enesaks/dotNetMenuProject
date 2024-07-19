@@ -13,7 +13,12 @@ namespace dotNetMenuProject.Context
         public DbSet<Product> Products { get; set; }
         public DbSet<Chef> Chefs { get; set; }
         public DbSet<Booking> Bookings { get; set; }
-
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Carousel> Carousels { get; set; }
+        public DbSet<Message> Messages { get; set; }
+        public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<Journal> Journals { get; set; }
+        public DbSet<About> Abouts { get; set; }
     }
 }
 

@@ -5,12 +5,9 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ViewComponents/DashboardViewComponents/_HeadViewComponent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Dashboard/Index.cshtml">
     <Files>
-      <File FileName="Controllers/DashboardController.cs" Line="12" Column="6" />
-      <File FileName="ViewComponents/DashboardViewComponents/_HeadViewComponent.cs" Line="14" Column="2" />
-      <File FileName="Views/Dashboard/Index.cshtml" Line="9" Column="27" />
-      <File FileName="Views/Shared/Components/_HeadViewComponent/Default.cshtml" Line="36" Column="1" />
+      <File FileName="Views/Dashboard/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,16 +15,19 @@
           <Node name="dotNetMenuProject">
             <Node name="dotNetMenuProject">
               <Node name="Controllers" expanded="True" />
-              <Node name="ViewComponents" expanded="True">
-                <Node name="DashboardViewComponents" expanded="True">
-                  <Node name="_HeadViewComponent.cs" selected="True" />
-                </Node>
-              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Dashboard" expanded="True" />
+                <Node name="Dashboard" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True">
-                    <Node name="_HeadViewComponent" expanded="True" />
+                    <Node name="_ChartViewComponentPartial" expanded="True" />
+                    <Node name="_GetLocationViewComponentPartial" expanded="True" />
+                    <Node name="_HeadViewComponentPartial" expanded="True" />
+                    <Node name="_LastRezervationViewComponentPartial" expanded="True" />
+                    <Node name="_NavbarViewComponentPartial" expanded="True" />
+                    <Node name="_SidebarViewComponentPartial" expanded="True" />
+                    <Node name="_StatisticsViewComponentPartial" expanded="True" />
                   </Node>
                 </Node>
               </Node>

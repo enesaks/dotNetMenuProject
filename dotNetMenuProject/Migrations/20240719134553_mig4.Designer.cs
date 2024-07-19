@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using dotNetMenuProject.Context;
@@ -11,9 +12,10 @@ using dotNetMenuProject.Context;
 namespace dotNetMenuProject.Migrations
 {
     [DbContext(typeof(MenuContext))]
-    partial class MenuContextModelSnapshot : ModelSnapshot
+    [Migration("20240719134553_mig4")]
+    partial class mig4
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,35 +23,6 @@ namespace dotNetMenuProject.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
-
-            modelBuilder.Entity("dotNetMenuProject.Entities.About", b =>
-                {
-                    b.Property<int>("AboutId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("AboutId"));
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("VideoUrl")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("AboutId");
-
-                    b.ToTable("Abouts");
-                });
 
             modelBuilder.Entity("dotNetMenuProject.Entities.Booking", b =>
                 {
@@ -90,31 +63,6 @@ namespace dotNetMenuProject.Migrations
                     b.ToTable("Bookings");
                 });
 
-            modelBuilder.Entity("dotNetMenuProject.Entities.Carousel", b =>
-                {
-                    b.Property<int>("CarouselId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("CarouselId"));
-
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("ImgUrl")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("CarouselId");
-
-                    b.ToTable("Carousels");
-                });
-
             modelBuilder.Entity("dotNetMenuProject.Entities.Chef", b =>
                 {
                     b.Property<int>("ChefId")
@@ -141,56 +89,6 @@ namespace dotNetMenuProject.Migrations
                     b.HasKey("ChefId");
 
                     b.ToTable("Chefs");
-                });
-
-            modelBuilder.Entity("dotNetMenuProject.Entities.Journal", b =>
-                {
-                    b.Property<int>("JournalId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("JournalId"));
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("NameSurname")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("JournalId");
-
-                    b.ToTable("Journals");
-                });
-
-            modelBuilder.Entity("dotNetMenuProject.Entities.Message", b =>
-                {
-                    b.Property<int>("MessageId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("MessageId"));
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("MessageDetails")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("MessageTitle")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("MessageId");
-
-                    b.ToTable("Messages");
                 });
 
             modelBuilder.Entity("dotNetMenuProject.Entities.Order", b =>
@@ -249,31 +147,6 @@ namespace dotNetMenuProject.Migrations
                     b.HasKey("ProductId");
 
                     b.ToTable("Products");
-                });
-
-            modelBuilder.Entity("dotNetMenuProject.Entities.SocialMedia", b =>
-                {
-                    b.Property<int>("SocialMediaId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("SocialMediaId"));
-
-                    b.Property<string>("Icon")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Url")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("SocialMediaId");
-
-                    b.ToTable("SocialMedias");
                 });
 #pragma warning restore 612, 618
         }

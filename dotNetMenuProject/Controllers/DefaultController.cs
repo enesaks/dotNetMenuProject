@@ -6,8 +6,6 @@
     using dotNetMenuProject.Context;
     using dotNetMenuProject.Entities;
 
-    // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
     namespace dotNetMenuProject.Controllers
     {
         public class DefaultController : Controller
@@ -31,14 +29,7 @@
             {
                 return PartialView();
             }
-            public PartialViewResult PartialCarousel()
-            {
-                return PartialView();
-            }
-            public PartialViewResult PartialAbout()
-            {
-                return PartialView();
-            }
+            
             public PartialViewResult PartialFeature()
             {
                 return PartialView();
@@ -80,7 +71,10 @@
                 booking.Description = "Rezervasyon Alındı"; 
                 context.Bookings.Add(booking);
                 context.SaveChanges();
-                return View();
+
+            TempData["Message"] = "Rezervasyon başarıyla oluşturuldu!";
+
+            return RedirectToAction();
             }
 
         }

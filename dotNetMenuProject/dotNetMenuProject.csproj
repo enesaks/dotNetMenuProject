@@ -25,6 +25,10 @@
     <None Remove="Views\Shared\Components\_ChartViewComponentPartial\" />
     <None Remove="Views\Shared\Components\_GetLocationViewComponentPartial\" />
     <None Remove="Views\Shared\Components\_LastRezervationViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LastOrderViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_CarouselViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_FoodListComponentPartial\" />
+    <None Remove="Views\Shared\Components\_AboutComponentPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -45,6 +49,10 @@
     <Folder Include="Views\Shared\Components\_ChartViewComponentPartial\" />
     <Folder Include="Views\Shared\Components\_GetLocationViewComponentPartial\" />
     <Folder Include="Views\Shared\Components\_LastRezervationViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LastOrderViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_CarouselViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_FoodListComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_AboutComponentPartial\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

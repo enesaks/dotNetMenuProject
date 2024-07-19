@@ -28,14 +28,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialAbout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQWJvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialCarousel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ2Fyb3VzZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Default/PartialContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9QYXJ0aWFsQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +76,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1iZC9TZXJpZXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Fib3V0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_CarouselViewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Nhcm91c2VsVmlld0NvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_ChartViewComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0NoYXJ0Vmlld0NvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -92,12 +92,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0NoZWZMaXN0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_FoodListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0Zvb2RMaXN0Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_GetLocationViewComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0dldExvY2F0aW9uVmlld0NvbXBvbmVudFBhcnRpYWwvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_HeadViewComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0hlYWRWaWV3Q29tcG9uZW50UGFydGlhbC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_LastOrderViewComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0xhc3RPcmRlclZpZXdDb21wb25lbnRQYXJ0aWFsL0RlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_LastRezervationViewComponentPartial/Default.cshtml]

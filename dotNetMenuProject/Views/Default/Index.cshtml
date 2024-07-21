@@ -2,10 +2,9 @@
     Layout = null;
 }
 
-
 <!DOCTYPE html>
 <html lang="en">
-<!--PartialHead-->  
+<!--PartialHead-->
 @await Html.PartialAsync("PartialHead")
 
 <body>
@@ -17,12 +16,13 @@
     <div id="carouse">
         @await Component.InvokeAsync("_CarouselViewComponentPartial")
     </div>
+
     <!--CreateBooking-->
     <div id="create-booking">
-        @if (TempData["Message"] != null)
+        @if (TempData["Rezervasyon"] != null)
         {
             <div class="alert alert-success">
-                @TempData["Message"]
+                @TempData["Rezervasyon"]
             </div>
         }
         @await Html.PartialAsync("CreateBooking")
@@ -44,23 +44,37 @@
         @await Component.InvokeAsync("_MenuListComponentPartial")
     </div>
 
-
     <!--PartialTeam-->
     <div id="chef-list">
         @await Component.InvokeAsync("_ChefListComponentPartial")
     </div>
+
     <!--PartialTestimonial-->
     @await Html.PartialAsync("PartialTestimonial")
 
     <!--PartialContact-->
-    <div id="contact"
-         @await Html.PartialAsync("PartialContact")
+    <div id="contact">
+        @if (TempData["Message"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["Message"]
+            </div>
+        }
+        @await Html.PartialAsync("PartialContact")
     </div>
+
     <!--PartialFooter-->
+    @if (TempData["journal"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["journal"]
+        </div>
+    }
     @await Html.PartialAsync("PartialFooter")
 
     <!--PartialScript-->
     @await Html.PartialAsync("PartialScript")
+
 
 </body>
 </html>

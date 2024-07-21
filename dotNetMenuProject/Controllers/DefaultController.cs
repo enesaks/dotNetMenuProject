@@ -44,17 +44,35 @@
                 return PartialView();
             }
 
+            [HttpGet]
             public PartialViewResult PartialContact()
             {
                 return PartialView();
+            }
+            [HttpPost]
+            public IActionResult PartialContact(Message message)
+            {
+                context.Messages.Add(message);
+                context.SaveChanges();
+                TempData["Message"] = "Mesajınız gönderildi!";
+                return RedirectToAction("Index");
             }
 
             public PartialViewResult PartialFooter()
             {
                 return PartialView();
             }
+            [HttpPost]
+            public IActionResult PartialFooter(Journal journal)
+            {
+                context.Journals.Add(journal);
+                context.SaveChanges();
+                TempData["journal"] = "Bültene Kaydınız Alındı";
+                return RedirectToAction("Index");
+            
+            }
 
-            public PartialViewResult PartialScript()
+        public PartialViewResult PartialScript()
             {
                 return PartialView();
             }
@@ -64,19 +82,18 @@
             
                 return PartialView();
             }
+
             [HttpPost]
             public IActionResult CreateBooking(Booking booking)
             {
                 booking.BookingDate = DateTime.SpecifyKind(booking.BookingDate, DateTimeKind.Utc);
-                booking.Description = "Rezervasyon Alındı"; 
+                booking.Description = "Rezervasyon Alındı";
                 context.Bookings.Add(booking);
                 context.SaveChanges();
-
-            TempData["Message"] = "Rezervasyon başarıyla oluşturuldu!";
-
-            return RedirectToAction();
+                TempData["Rezervasyon"] = "Rezervasyon başarıyla oluşturuldu!";
+                return RedirectToAction("Index");
             }
 
-        }
+    }
     }
 

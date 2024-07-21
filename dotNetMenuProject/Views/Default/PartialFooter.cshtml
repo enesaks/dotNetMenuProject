@@ -1,4 +1,5 @@
-﻿<!-- Footer Start -->
+﻿@model dotNetMenuProject.Entities.Journal
+<!-- Footer Start -->
 <div class="footer">
     <div class="container">
         <div class="row">
@@ -22,28 +23,36 @@
                     <div class="col-md-6">
                         <div class="footer-link">
                             <h2>Hızlı Linkler</h2>
-                            <a href=""Kullanım Şartları</a>
-                            <a href="">Gizlilik Politikası/a>
-                            <a href="">Çerezler</a>
-                            <a href="">Yardım</a>
-                            <a href="">Sık Sorulan Sorular</a>
+                            <a href="" Kullanım Şartları</a>
+                            <a href="">
+                                Gizlilik Politikası/a>
+                                <a href="">Çerezler</a>
+                                <a href="">Yardım</a>
+                                <a href="">Sık Sorulan Sorular</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5">
-                <div class="footer-newsletter">
+                <div class="footer-link">
                     <h2>Menu Bülteni</h2>
                     <p>
                         Alanında en uzman şeflerimizin ellerinden çıkan lezzetli tariflerden haberdar olmak için hemen
                         bültenimize kaydolun !!!
                     </p>
-                    <div class="form">
-                        <input class="form-control" placeholder="Mail Adresimiz">
-                        <button class="btn custom-btn">Abone Ol</button>
-                    </div>
+                </div>
+                <div class="footer-newsletter">
+                    <form class="" method="post" asp-action="PartialFooter" asp-controller="Default">
+                        <button class="btn custom-btn" type="submit">Abone Ol</button>
+                        <input class="form-control" type="text" asp-for="NameSurname" placeholder="Adınızı Giriniz" required="required">
+                        <br />
+                        <input class="form-control" type="text" asp-for="Email" placeholder="Mail Adresiniz" required="required">
+
+                    </form>
                 </div>
             </div>
+
+            
         </div>
     </div>
     <div class="copyright">

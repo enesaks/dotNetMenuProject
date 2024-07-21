@@ -1,34 +1,49 @@
 ﻿<Properties StartupConfiguration="{AAA2877C-E38C-4DB5-833A-781575E446DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.dotNetMenuProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Dashboard/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Components/_AboutComponentPartial/Default.cshtml">
     <Files>
-      <File FileName="Views/Dashboard/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/DefaultController.cs" />
+      <File FileName="Views/Default/Index.cshtml" />
+      <File FileName="ViewComponents/_AboutComponentPartial.cs" />
+      <File FileName="Views/Shared/Components/_AboutComponentPartial/Default.cshtml" Line="25" Column="33" />
+      <File FileName="Entities/About.cs" />
+      <File FileName="Context/MenuContext.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetMenuProject">
             <Node name="dotNetMenuProject">
+              <Node name="Context" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Dashboard" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Dashboard" expanded="True" />
+                <Node name="Default" expanded="True" />
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True">
+                    <Node name="_AboutComponentPartial" expanded="True">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
+                    <Node name="_CarouselViewComponentPartial" expanded="True" />
                     <Node name="_ChartViewComponentPartial" expanded="True" />
+                    <Node name="_ChefListComponentPartial" expanded="True" />
+                    <Node name="_FoodListComponentPartial" expanded="True" />
                     <Node name="_GetLocationViewComponentPartial" expanded="True" />
                     <Node name="_HeadViewComponentPartial" expanded="True" />
+                    <Node name="_LastOrderViewComponentPartial" expanded="True" />
                     <Node name="_LastRezervationViewComponentPartial" expanded="True" />
+                    <Node name="_MenuListComponentPartial" expanded="True" />
                     <Node name="_NavbarViewComponentPartial" expanded="True" />
                     <Node name="_SidebarViewComponentPartial" expanded="True" />
                     <Node name="_StatisticsViewComponentPartial" expanded="True" />
                   </Node>
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="food-website-template" expanded="True">
+                  <Node name="css" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -38,4 +53,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dotNetMenuProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

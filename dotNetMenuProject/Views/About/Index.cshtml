@@ -1,0 +1,70 @@
+﻿@model List<About>
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">About</h3>
+            </div>
+        </div>
+        <table class="table table-borderless fixed-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Başlık</th>
+                    <th>Açıklama</th>
+                    <th>Video URL</th>
+                    <th>Ressim URL</th>
+                    <th>Sil</th>
+                    <th>Güncelle</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    a++;
+                    <tr>
+                        <td>@a</td>
+                        <td>@item.Title</td>
+                        <td>
+                            <div class="description-cell">
+                                @item.Description
+                            </div>
+                        </td>
+                        <td>@item.VideoUrl</td>
+                        <td>@item.ImageUrl</td>
+                        <td><a class="btn btn-danger" href="/About/AboutDelete/@item.AboutId">Sil</a></td>
+                        <td><a class="btn btn-success" href="/About/AboutUpdate/@item.AboutId">Güncelle</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a class="btn btn-primary" href="/About/AboutCreate">Yeni About Eklem</a>
+    </div>
+</div>
+
+
+<style>
+    .fixed-table {
+        table-layout: fixed;
+        width: 100%;
+    }
+
+    .fixed-table th, .fixed-table td {
+        word-wrap: break-word;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+
+    .description-cell {
+        max-height: 100px;
+        overflow-y: auto;
+    }
+
+  
+</style>

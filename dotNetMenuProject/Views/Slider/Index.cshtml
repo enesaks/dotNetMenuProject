@@ -1,0 +1,47 @@
+﻿@model List<Carousel>
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Slider</h3>
+            </div>
+        </div>
+
+        <div>
+            <table class="table table-borderless">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Başlık</th>
+                        <th>Açıklama</th>
+                        <th>Ressim URL</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        a++;
+                        <tr>
+                            <td>@a</td>
+                            <td>@item.Title</td>
+                            <td>@item.Description</td>
+                            <td>@item.ImgUrl</td>
+                            <td><a class="btn btn-danger" href="/Slider/SliderDelete/@item.CarouselId">Sil</a></td>
+                            <td><a class="btn btn-success" href="/Slider/SliderUpdate/@item.CarouselId">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <a class="btn btn-primary" href="/Slider/SliderCreate">Yeni Slider Eklem</a>
+        </div>
+       
+    </div>
+</div>

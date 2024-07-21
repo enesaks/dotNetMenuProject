@@ -29,6 +29,10 @@
     <None Remove="Views\Shared\Components\_CarouselViewComponentPartial\" />
     <None Remove="Views\Shared\Components\_FoodListComponentPartial\" />
     <None Remove="Views\Shared\Components\_AboutComponentPartial\" />
+    <None Remove="Views\Admin\" />
+    <None Remove="Views\Slider\" />
+    <None Remove="Views\About\" />
+    <None Remove="Views\Booking\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -53,6 +57,10 @@
     <Folder Include="Views\Shared\Components\_CarouselViewComponentPartial\" />
     <Folder Include="Views\Shared\Components\_FoodListComponentPartial\" />
     <Folder Include="Views\Shared\Components\_AboutComponentPartial\" />
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Slider\" />
+    <Folder Include="Views\About\" />
+    <Folder Include="Views\Booking\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

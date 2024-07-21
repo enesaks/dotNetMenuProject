@@ -1,0 +1,32 @@
+﻿@model Carousel
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "SliderUpdate";
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Slider Güncelle</h3>
+            </div>
+        </div>
+
+        <div>
+            <form method="post">
+                <input type="hidden" asp-for="CarouselId" class="form-control" />
+                <label>Başlık</label>
+                <input type="text" asp-for="Title" class="form-control" />
+                <br />
+                <label>Açıklama</label>
+                <input type="text" asp-for="Description" class="form-control" />
+                <br />
+                <label>Ressim URL</label>
+                <input type="text" asp-for="ImgUrl" class="form-control" />
+                <br />
+                <button class="btn btn-primary">Slider Güncelle</button>
+            </form>
+        </div>
+
+
+    </div>
+</div>

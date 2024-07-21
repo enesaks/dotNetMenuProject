@@ -1,0 +1,51 @@
+﻿@model List<Booking>
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Rezervasyonlar</h3>
+            </div>
+        </div>
+
+        <div>
+            <table class="table table-borderless">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>İssim</th>
+                        <th>Mail</th>
+                        <th>Phone</th>
+                        <th>Tarih</th>
+                        <th>Zaman</th>
+                        <th>Kişi Sayısı</th>
+                        <th>Sil</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        a++;
+                        <tr>
+                            <td>@a</td>
+                            <td>@item.Name</td>
+                            <td>@item.Email</td>
+                            <td>@item.Phone</td>
+                            <td>@item.BookingDate</td>
+                            <td>@item.BookingTime</td>
+                            <td>@item.GuestCount</td>
+                            <td><a class="btn btn-danger" href="/Booking/BookingDelete/@item.BookingId">Sil</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+</div>

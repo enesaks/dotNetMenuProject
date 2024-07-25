@@ -8,8 +8,8 @@ namespace dotNetMenuProject.ViewComponents
 		MenuContext context = new MenuContext();
 		public IViewComponentResult Invoke()
 		{
-			var values = context.Chefs.Where(x => x.Status == true).ToList();
-			return View(values);
+			var values = context.Chefs.Where(x => x.Status == true).ToList().TakeLast(4).ToList();
+            return View(values);
 		}
 	}
 }

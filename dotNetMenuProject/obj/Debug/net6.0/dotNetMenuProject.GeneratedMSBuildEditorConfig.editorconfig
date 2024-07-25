@@ -36,6 +36,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va2luZy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Chefs/ChefsCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlZnMvQ2hlZnNDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Chefs/ChefsUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlZnMvQ2hlZnNVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Chefs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlZnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -94,6 +106,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Imbd/SeriesList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW1iZC9TZXJpZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Journal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm91cm5hbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2FnZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Message/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2FnZS9NZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9VcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
@@ -166,6 +202,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Slider/SliderUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2xpZGVyL1NsaWRlclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RhdGlzdGljL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/enes/Documents/GitHub/dotNetMenuProject/dotNetMenuProject/Views/Weather/Index.cshtml]

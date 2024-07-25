@@ -1,0 +1,65 @@
+﻿@model List<Message>
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Mesajlar</h3>
+            </div>
+        </div>
+
+        <div>
+            <table class="table table-borderless fixed-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>İssim</th>
+                        <th>Email</th>
+                        <th>Mesaj Başlığı</th>
+                        <th>Mesaj Detayları</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        a++;
+                        <tr>
+                            <td>@a</td>
+                            <td>@item.Name</td>
+                            <td>@item.Email</td>
+                            <td>@item.MessageTitle</td>
+                            <td><a class="btn btn-success" href="/Message/MessageDetails/@item.MessageId">Mesaj Detayları</a></td>
+                            <td><a class="btn btn-danger" href="/Message/MessageDelete/@item.MessageId">Sil</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+</div>
+
+<style>
+    .fixed-table {
+        table-layout: fixed;
+        width: 100%;
+    }
+
+        .fixed-table th, .fixed-table td {
+            word-wrap: break-word;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+
+    .description-cell {
+        max-height: 100px;
+        overflow-y: auto;
+    }
+</style>

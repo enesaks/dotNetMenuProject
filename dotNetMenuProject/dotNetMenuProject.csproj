@@ -33,6 +33,11 @@
     <None Remove="Views\Slider\" />
     <None Remove="Views\About\" />
     <None Remove="Views\Booking\" />
+    <None Remove="Views\Product\" />
+    <None Remove="Views\Chefs\" />
+    <None Remove="Views\Message\" />
+    <None Remove="Views\Journal\" />
+    <None Remove="Views\Statistic\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -61,6 +66,11 @@
     <Folder Include="Views\Slider\" />
     <Folder Include="Views\About\" />
     <Folder Include="Views\Booking\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Views\Chefs\" />
+    <Folder Include="Views\Message\" />
+    <Folder Include="Views\Journal\" />
+    <Folder Include="Views\Statistic\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

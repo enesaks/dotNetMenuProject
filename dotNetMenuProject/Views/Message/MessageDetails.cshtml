@@ -1,0 +1,21 @@
+﻿@model Message
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Mesajlar</h3>
+            </div>
+        </div>
+            <h2>@Model.MessageDetails</h2>
+        <div>
+            <a class="btn btn-info" href="/Message/Index">Geri Dön</a>
+        </div>
+
+    </div>
+</div>
+

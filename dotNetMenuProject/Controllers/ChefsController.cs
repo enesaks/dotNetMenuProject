@@ -5,55 +5,53 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using dotNetMenuProject.Context;
 using dotNetMenuProject.Entities;
-using Newtonsoft.Json.Linq;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace dotNetMenuProject.Controllers
 {
-    public class ProductController : Controller
+    public class ChefsController : Controller
     {
         MenuContext context = new MenuContext();
-
+        // GET: /<controller>/
         public IActionResult Index()
         {
-            var values = context.Products.ToList();
+            var values = context.Chefs.ToList();
             return View(values);
         }
 
         [HttpGet]
-        public IActionResult CreateProduct()
+        public IActionResult ChefsCreate()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult CreateProduct(Product product)
+        public IActionResult ChefsCreate(Chef chef)
         {
-            context.Products.Add(product);
-            context.SaveChanges();
-            return RedirectToAction("Index");
-        }
-       
-        public IActionResult DeleteProduct(int id)
-        {
-            var values = context.Products.Find(id);
-            context.Products.Remove(values);
+            context.Chefs.Add(chef);
             context.SaveChanges();
             return RedirectToAction("Index");
         }
 
         [HttpGet]
-        public IActionResult UpdateProduct(int id)
+        public IActionResult ChefsDelete(int id)
         {
-            var values = context.Products.Find(id);
-            return View(values);
+            var values = context.Chefs.Find(id);
+            context.Chefs.Remove(values);
+            context.SaveChanges();
+            return RedirectToAction("Index");
         }
 
-        [HttpPost]
-        public IActionResult UpdateProduct(Product product)
+        [HttpGet]
+        public IActionResult ChefsUpdate(int id)
         {
-            context.Products.Update(product);
+            var values = context.Chefs.Find(id);
+            return View(values);
+        }
+        [HttpPost]
+        public IActionResult ChefsUpdate(Chef chef)
+        {
+            context.Chefs.Update(chef);
             context.SaveChanges();
             return RedirectToAction("Index");
         }

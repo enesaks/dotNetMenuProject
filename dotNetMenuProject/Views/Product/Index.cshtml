@@ -1,0 +1,70 @@
+﻿@model List<Product>
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+    int a = 0;
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">Product</h3>
+            </div>
+        </div>
+
+        <div>
+            <table class="table table-borderless fixed-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Ürün İsmi</th>
+                        <th>Açıklama</th>
+                        <th>Fiyat</th>
+                        <th>Durum</th>
+                        <th>Ressim URL</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        a++;
+                        <tr>
+                            <td>@a</td>
+                            <td>@item.ProductName</td>
+                            <td>@item.Description</td>
+                            <td>@item.Price</td>
+                            <td>@item.Status</td>
+                            <td>@item.ImageUrl</td>
+                            <td><a class="btn btn-danger" href="/Product/DeleteProduct/@item.ProductId">Sil</a></td>
+                            <td><a class="btn btn-success" href="/Product/UpdateProduct/@item.ProductId">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <a class="btn btn-primary" href="/Product/CreateProduct">Yeni Ürün Ekleme</a>
+        </div>
+
+    </div>
+</div>
+
+<style>
+    .fixed-table {
+        table-layout: fixed;
+        width: 100%;
+    }
+
+        .fixed-table th, .fixed-table td {
+            word-wrap: break-word;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+
+    .description-cell {
+        max-height: 100px;
+        overflow-y: auto;
+    }
+</style>

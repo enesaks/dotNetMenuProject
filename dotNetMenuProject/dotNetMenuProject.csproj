@@ -38,6 +38,7 @@
     <None Remove="Views\Message\" />
     <None Remove="Views\Journal\" />
     <None Remove="Views\Statistic\" />
+    <None Remove="Views\Api\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Default\" />
@@ -71,6 +72,7 @@
     <Folder Include="Views\Message\" />
     <Folder Include="Views\Journal\" />
     <Folder Include="Views\Statistic\" />
+    <Folder Include="Views\Api\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
@@ -80,6 +82,6 @@
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.31" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
-    <PackageReference Include="Newtonsoft.Json" Version="6.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 </Project>

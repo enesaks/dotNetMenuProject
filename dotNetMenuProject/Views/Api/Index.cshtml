@@ -1,0 +1,139 @@
+﻿
+@{
+    Layout = "/Views/Admin/Index.cshtml";
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <div class="page-inner">
+        <div class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+            <div>
+                <h3 class="fw-bold mb-3">API</h3>
+            </div>
+        </div>
+
+        <div>
+
+
+            <!-- Customized Card -->
+            <h3 class="fw-bold mb-3">Customized Card</h3>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card card-info card-annoucement card-round">
+                        <div class="card-body text-center">
+                            <div class="card-opening">Welcome Bolu,</div>
+                            
+                            <div class="card-detail">
+                                Bolu hava sıcaklığı <h2>@ViewBag.Temp °C</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card card-round">
+                        <div class="card-body">
+                            <div class="card-title fw-mediumbold">Döviz Kurları</div>
+                            <div class="card-list">
+                                <div class="item-list">
+                                    
+                                    <div class="info-user ms-3">
+                                        <div class="username">1₺ = @ViewBag.USD</div>
+                                    </div>
+                                    
+                                </div>
+                                <div class="item-list">
+                                    
+                                    <div class="info-user ms-3">
+                                        <div class="username">1₺ = @ViewBag.EUR</div>
+                                    </div>
+                                   
+                                </div>
+                                <div class="item-list">
+                                    <div class="avatar">
+                                        <img src="assets/img/talha.jpg"
+                                             alt="..."
+                                             class="avatar-img rounded-circle" />
+                                    </div>
+                                    <div class="info-user ms-3">
+                                        <div class="username">Talha</div>
+                                        <div class="status">Front End Designer</div>
+                                    </div>
+                                    <button class="btn btn-icon btn-primary btn-round btn-xs">
+                                        <i class="fa fa-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="card card-post card-round">
+                        <img class="card-img-top"
+                             src="https://miro.medium.com/v2/resize:fit:1252/format:webp/1*K-Q78QGU8hM2JM0IVsFM6g.jpeg"
+                             alt="Card image cap" />
+                        <div class="card-body">
+                            <div class="d-flex">
+                                
+                                
+                            </div>
+                            <div class="separator-solid"></div>
+                            <p class="card-category text-info mb-1">
+                                <a href="https://medium.com/@@enesaks/sqlde-view-kulan%C4%B1m%C4%B1-%C3%B6rnekleri-abfe33fb2f8e">Medium</a>
+                            </p>
+                            <h3 class="card-title">
+                                SQL View Nedir ? Kulanımı & Örnekleri
+                            </h3>
+                            
+                            <a href="https://medium.com/@@enesaks/sqlde-view-kulan%C4%B1m%C4%B1-%C3%B6rnekleri-abfe33fb2f8e" class="btn btn-primary btn-rounded btn-sm">Devamını Oku</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card card-profile">
+                        <div class="card-header"
+                             style="background-image: url('assets/img/blogpost.jpg')">
+                            <div class="profile-picture">
+                                <div class="avatar avatar-xl">
+                                    <img src="~/kaiadmin/assets/img/profile.jpg"
+                                         alt="..."
+                                         class="avatar-img rounded-circle" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="user-profile text-center">
+                                <div class="name">Enes Aksu</div>
+                                <div class="job">Yazılımcı</div>
+                                
+                                <div class="view-profile">
+                                    <a href="https://instagram.com/enes.aks29" class="btn btn-secondary w-100">View Full Profile</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <div class="row user-stats text-center">
+                                <div class="col">
+                                    <div class="number">@ViewBag.Post</div>
+                                    <div class="title">Post</div>
+                                </div>
+                                <div class="col">
+                                    <div class="number">@ViewBag.Folowers</div>
+                                    <div class="title">Takipçi</div>
+                                </div>
+                                <div class="col">
+                                    <div class="number">@ViewBag.Folowing</div>
+                                    <div class="title">Takip</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+
+
+

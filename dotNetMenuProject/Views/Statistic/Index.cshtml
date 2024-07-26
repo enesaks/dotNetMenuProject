@@ -19,7 +19,7 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-primary bubble-shadow-small">
-                                    <i class="fas fa-users"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
@@ -38,7 +38,7 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-info bubble-shadow-small">
-                                    <i class="fas fa-user-check"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
@@ -57,7 +57,7 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-success bubble-shadow-small">
-                                    <i class="fas fa-luggage-cart"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
@@ -83,6 +83,85 @@
                                 <div class="numbers">
                                     <p class="card-category">Rezervasyonlar</p>
                                     <h4 class="card-title">@ViewBag.bookingCount</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="card card-stats card-round">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-icon">
+                                <div class="icon-big text-center icon-primary bubble-shadow-small">
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                            </div>
+                            <div class="col col-stats ms-3 ms-sm-0">
+                                <div class="numbers">
+                                    <p class="card-category">Mesaj Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.messageCount</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="card card-stats card-round">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-icon">
+                                <div class="icon-big text-center icon-info bubble-shadow-small">
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                            </div>
+                            <div class="col col-stats ms-3 ms-sm-0">
+                                <div class="numbers">
+                                    <p class="card-category">Aktif Şef Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.activeChefCount</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="card card-stats card-round">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-icon">
+                                <div class="icon-big text-center icon-success bubble-shadow-small">
+                                    <i class="fas fa-check-circle"></i>
+                                </div>
+                            </div>
+                            <div class="col col-stats ms-3 ms-sm-0">
+                                <div class="numbers">
+                                    <p class="card-category">Toplam Şef Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.ChefCount</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="card card-stats card-round">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-icon">
+                                <div class="icon-big text-center icon-secondary bubble-shadow-small">
+                                    <i class="far fa-check-circle"></i>
+                                </div>
+                            </div>
+                            <div class="col col-stats ms-3 ms-sm-0">
+                                <div class="numbers">
+                                    <p class="card-category">Abone Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.journalCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -99,13 +178,13 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-primary bubble-shadow-small">
-                                    <i class="fas fa-users"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
                                 <div class="numbers">
-                                    <p class="card-category">Ürün Sayısı</p>
-                                    <h4 class="card-title">@ViewBag.productCount</h4>
+                                    <p class="card-category">Sipariş Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.orderCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -118,13 +197,13 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-info bubble-shadow-small">
-                                    <i class="fas fa-user-check"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
                                 <div class="numbers">
-                                    <p class="card-category">Aktif Ürünler</p>
-                                    <h4 class="card-title">@ViewBag.activeProductCount</h4>
+                                    <p class="card-category">Onaylanan Sipariş Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.confrimOrderCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -137,13 +216,13 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-success bubble-shadow-small">
-                                    <i class="fas fa-luggage-cart"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
                                 <div class="numbers">
-                                    <p class="card-category">Ortalama Fiyat</p>
-                                    <h4 class="card-title">@ViewBag.avgProductCount.ToString("0.00") ₺</h4>
+                                    <p class="card-category">Bekleyen Siparişler</p>
+                                    <h4 class="card-title">@ViewBag.waitOrderCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -161,8 +240,8 @@
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
                                 <div class="numbers">
-                                    <p class="card-category">Rezervasyonlar</p>
-                                    <h4 class="card-title">@ViewBag.bookingCount</h4>
+                                    <p class="card-category">İptal Olan Sipraşler</p>
+                                    <h4 class="card-title">@ViewBag.cencelOrderCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -171,7 +250,6 @@
             </div>
 
         </div>
-
 
         <div class="row">
             <div class="col-sm-6 col-md-3">
@@ -180,13 +258,13 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-primary bubble-shadow-small">
-                                    <i class="fas fa-users"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
                                 <div class="numbers">
-                                    <p class="card-category">Ürün Sayısı</p>
-                                    <h4 class="card-title">@ViewBag.productCount</h4>
+                                    <p class="card-category">Slider Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.SliderCount</h4>
                                 </div>
                             </div>
                         </div>
@@ -199,7 +277,7 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-info bubble-shadow-small">
-                                    <i class="fas fa-user-check"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
@@ -218,7 +296,7 @@
                         <div class="row align-items-center">
                             <div class="col-icon">
                                 <div class="icon-big text-center icon-success bubble-shadow-small">
-                                    <i class="fas fa-luggage-cart"></i>
+                                    <i class="fas fa-check-circle"></i>
                                 </div>
                             </div>
                             <div class="col col-stats ms-3 ms-sm-0">
@@ -253,86 +331,6 @@
 
         </div>
 
-
-        <div class="row">
-            <div class="col-sm-6 col-md-3">
-                <div class="card card-stats card-round">
-                    <div class="card-body">
-                        <div class="row align-items-center">
-                            <div class="col-icon">
-                                <div class="icon-big text-center icon-primary bubble-shadow-small">
-                                    <i class="fas fa-users"></i>
-                                </div>
-                            </div>
-                            <div class="col col-stats ms-3 ms-sm-0">
-                                <div class="numbers">
-                                    <p class="card-category">Ürün Sayısı</p>
-                                    <h4 class="card-title">@ViewBag.productCount</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="card card-stats card-round">
-                    <div class="card-body">
-                        <div class="row align-items-center">
-                            <div class="col-icon">
-                                <div class="icon-big text-center icon-info bubble-shadow-small">
-                                    <i class="fas fa-user-check"></i>
-                                </div>
-                            </div>
-                            <div class="col col-stats ms-3 ms-sm-0">
-                                <div class="numbers">
-                                    <p class="card-category">Aktif Ürünler</p>
-                                    <h4 class="card-title">@ViewBag.activeProductCount</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="card card-stats card-round">
-                    <div class="card-body">
-                        <div class="row align-items-center">
-                            <div class="col-icon">
-                                <div class="icon-big text-center icon-success bubble-shadow-small">
-                                    <i class="fas fa-luggage-cart"></i>
-                                </div>
-                            </div>
-                            <div class="col col-stats ms-3 ms-sm-0">
-                                <div class="numbers">
-                                    <p class="card-category">Ortalama Fiyat</p>
-                                    <h4 class="card-title">@ViewBag.avgProductCount.ToString("0.00") ₺</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <div class="card card-stats card-round">
-                    <div class="card-body">
-                        <div class="row align-items-center">
-                            <div class="col-icon">
-                                <div class="icon-big text-center icon-secondary bubble-shadow-small">
-                                    <i class="far fa-check-circle"></i>
-                                </div>
-                            </div>
-                            <div class="col col-stats ms-3 ms-sm-0">
-                                <div class="numbers">
-                                    <p class="card-category">Rezervasyonlar</p>
-                                    <h4 class="card-title">@ViewBag.bookingCount</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
 
     </div>
     </div>

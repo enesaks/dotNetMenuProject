@@ -34,7 +34,7 @@
  ```bash
    dotnet restore
 ```
-4.	**Veritabanı Göçlerini Uygulayın**
+4.	**Veritabanını Uygulayın**
    •	PostgreSQL veritabanınızı oluşturun ve bağlantı dizesini yapılandırma dosyanıza ekleyin. Context dosyasındaki [optionsBuilder.UseNpgsql](https://github.com/enesaks/dotNetMenuProject/blob/main/dotNetMenuProject/Context/MenuContext.cs) kısmını uygun veritabanı bağlantı dizesi ile güncelleyin.
   	
 5.	**Veritabanı Göçlerini Uygulayın**

@@ -47,7 +47,7 @@
 
 Bu talimatları takip ederek projeyi kolaylıkla çalıştırabilirsiniz.
 
-Proje Ressimleri 
+**Proje Ressimleri**
 <img width="1470" alt="Ekran Resmi 2024-07-27 15 32 23" src="https://github.com/user-attachments/assets/0fb2ae99-ccdb-46b9-b6d6-49818b07e5e0">
 <img width="1470" alt="Ekran Resmi 2024-07-27 15 31 44" src="https://github.com/user-attachments/assets/3f166e5a-b679-4fc8-9f4c-9d2329badf21">
 <img width="1470" alt="Ekran Resmi 2024-07-27 15 32 34" src="https://github.com/user-attachments/assets/45c5ad86-7166-43be-b798-b63486825d4f">

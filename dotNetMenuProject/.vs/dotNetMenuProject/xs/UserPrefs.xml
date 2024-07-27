@@ -1,25 +1,27 @@
 ﻿<Properties StartupConfiguration="{AAA2877C-E38C-4DB5-833A-781575E446DF}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/doviz/Index.cshtml">
     <Files>
-      <File FileName="Views/Shared/Components/_SidebarViewComponentPartial/Default.cshtml" />
-      <File FileName="Controllers/SliderController.cs" />
-      <File FileName="Views/Slider/Index.cshtml" />
-      <File FileName="Views/Slider/SliderUpdate.cshtml" />
-      <File FileName="Views/Slider/SliderCreate.cshtml" />
-      <File FileName="Controllers/BookingController.cs" />
-      <File FileName="Views/Booking/Index.cshtml" />
-      <File FileName="Controllers/ProductController.cs" Line="16" Column="18" />
+      <File FileName="Views/Shared/Components/_SidebarViewComponentPartial/Default.cshtml" Line="46" Column="51" />
+      <File FileName="Controllers/ApiController.cs" Line="23" Column="10" />
+      <File FileName="Views/Api/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Models/Data.cs" />
+      <File FileName="Models/SocialMediaFolowingModel.cs" />
+      <File FileName="Models/SocialMediaModelFolowers.cs" Line="7" Column="21" />
+      <File FileName="Controllers/dovizController.cs" Line="35" Column="46" />
+      <File FileName="Views/doviz/Index.cshtml" Line="16" Column="1" />
+      <File FileName="Models/CurrencyExchangeRate.cs" Line="7" Column="1" />
+      <File FileName="Controllers/ImbdController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetMenuProject">
-            <Node name="dotNetMenuProject" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ProductController.cs" selected="True" />
-              </Node>
+            <Node name="dotNetMenuProject">
               <Node name="Views" expanded="True">
+                <Node name="Api" expanded="True" />
+                <Node name="doviz" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True">
                     <Node name="_SidebarViewComponentPartial" expanded="True" />
@@ -32,10 +34,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.dotNetMenuProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

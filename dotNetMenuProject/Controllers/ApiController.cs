@@ -16,7 +16,7 @@ namespace dotNetMenuProject.Controllers
         SocialMediaModelFolowers socialMediaModelFolowers = new SocialMediaModelFolowers();
         SocialMediaFolowingModel socialMediaFolowingModel = new SocialMediaFolowingModel();
         WeatherViewModel weatherViewModel = new WeatherViewModel();
-        CurrencyRateModel currencyRate = new CurrencyRateModel();
+        CurrencyExchangeRate currencyRate = new CurrencyExchangeRate();
 
         // GET: /<controller>/
         public async Task<IActionResult> Index()
@@ -24,27 +24,19 @@ namespace dotNetMenuProject.Controllers
             //weatherViewModel = await WeatherApi();
             socialMediaModelFolowers = await SocialMediaFolowerApi();
             socialMediaFolowingModel = await SocialMediaFolowingApi();
-            currencyRate= await CurrencyRateApi();//#TODO
-            
+            currencyRate = await CurrencyRateApi("USD");
+            ViewBag.USD = currencyRate.Data[0].Buying;
+            currencyRate = await CurrencyRateApi("EUR");
+            ViewBag.EUR = currencyRate.Data[0].Buying;
             //ViewBag.Temp = weatherViewModel.data.temp;
             ViewBag.Temp = "10";
             ViewBag.Folowers = socialMediaModelFolowers.Data.Total;
             ViewBag.Folowing = socialMediaFolowingModel.Data.Total;
             ViewBag.Post = 0;
-            if (currencyRate?.Data?.CurrencyRates != null)//#TODOTODO
-            {
-                foreach (var item in currencyRate.Data.CurrencyRates)
-                {
-                    if (item.Code == "USD")
-                    {
-                        ViewBag.USD = item.ForexBuying;
-                    }
-                    if (item.Code == "EUR")
-                    {
-                        ViewBag.EUR = item.ForexBuying;
-                    }
-                }
-            }
+            
+
+            
+                    
             return View();
         }
 
@@ -119,25 +111,25 @@ namespace dotNetMenuProject.Controllers
             }
         }
 
-        public async Task<CurrencyRateModel> CurrencyRateApi()
+        public async Task<CurrencyExchangeRate> CurrencyRateApi(string code)
         {
             var client = new HttpClient();
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Get,
-                RequestUri = new Uri("https://doviz-kurlari-currency-rates.p.rapidapi.com/api/currency-rates"),
+                RequestUri = new Uri($"https://doviz-ve-altin-fiyatlari-try.p.rapidapi.com/economy/currency/exchange-rate?code={code}"),
                 Headers =
     {
         { "x-rapidapi-key", "a54022c22cmsh8d30dd428c56503p1a8657jsn345def8d4313" },
-        { "x-rapidapi-host", "doviz-kurlari-currency-rates.p.rapidapi.com" },
+        { "x-rapidapi-host", "doviz-ve-altin-fiyatlari-try.p.rapidapi.com" },
     },
             };
             using (var response = await client.SendAsync(request))
             {
                 response.EnsureSuccessStatusCode();
                 var body = await response.Content.ReadAsStringAsync();
-                var values = JsonConvert.DeserializeObject<CurrencyRateModel>(body);
-                return values;
+                var value = JsonConvert.DeserializeObject<CurrencyExchangeRate>(body); // Single object
+                return value;
             }
         }
 
